@@ -1,8 +1,10 @@
-以下內容及程式實現不是由我本人原創，而是基於 https://github.com/joshpocock/agent.exe以及https://github.com/corbt/agent.exe的fork版本
+> 以下內容及程式實現不是由我本人原創，而是基於以下專案的 fork 版本：
+> - https://github.com/joshpocock/agent.exe 
+> - https://github.com/corbt/agent.exe
+
 ---
 
 # Agent.exe
-
 提供 **Agent.exe**：讓 Claude 的新[電腦使用](https://www.anthropic.com/news/3-5-models-and-computer-use)功能最簡單地控制您的電腦！
 
 ### 動機
