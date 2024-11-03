@@ -1,4 +1,4 @@
-
+以下內容及程式實現不是由我本人原創，而是基於 https://github.com/joshpocock/agent.exe以及https://github.com/corbt/agent.exe的fork版本
 ---
 
 # Agent.exe
