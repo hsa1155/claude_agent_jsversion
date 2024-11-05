@@ -11,7 +11,7 @@
 我想測試 Claude 的新[電腦使用](https://www.anthropic.com/news/3-5-models-and-computer-use) API 的效果如何，而他們提供的預設專案感覺太過笨重。這是一個簡單的 Electron 應用程式，可讓 Claude 3.5 Sonnet 直接控制您的本地電腦。我原本計劃添加一個「半自動」模式，讓用戶在每個動作執行前都需要確認，但由於每個步驟都很慢，我發現這並非必要，而且如果模型出現混亂，您可以輕鬆地按下「停止」按鈕來結束運行。
 
 ### 開始使用
-1. `git clone https://github.com/corbt/agent.exe`
+1. `git clone https://github.com/hsa1155/claude_agent_jsversion`
 2. `cd agent.exe`
 3. `npm install`
 4. 將 `.env.example` 重新命名為 `.env` 並添加您的 Anthropic API 密鑰
