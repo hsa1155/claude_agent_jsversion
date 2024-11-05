@@ -12,7 +12,7 @@
 
 ### 開始使用
 1. `git clone https://github.com/hsa1155/claude_agent_jsversion`
-2. `cd agent.exe`
+2. `cd claude_agent_jsversion`
 3. `npm install`
 4. 將 `.env.example` 重新命名為 `.env` 並添加您的 Anthropic API 密鑰
 5. `npm start`
